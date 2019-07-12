@@ -1,0 +1,9 @@
+Distance between Leicester and Moffat is 474
+ Path = Moffat <- Carlisle <- Blackpool <- Leeds <- Sheffield <- Leicester
+
+Distance between Hull and Oxford is 325
+ Path = Oxford <- Birmingham <- Nottingham <- Hull
+
+Distance between Lincoln and Bristol is 284
+ Path = Bristol <- Birmingham <- Leicester <- Lincoln
+

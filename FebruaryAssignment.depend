@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1550466817 source:c:\users\pears\documents\uni\year2\algorithms\februaryassignment\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"shortestPath.h"
+
+1550466836 c:\users\pears\documents\uni\year2\algorithms\februaryassignment\src\shortestpath.h
+
+1550466827 source:c:\users\pears\documents\uni\year2\algorithms\februaryassignment\src\shortestpath.c
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"shortestPath.h"
+
